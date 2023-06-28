@@ -1,0 +1,384 @@
+/* screen - meesterproef */
+
+.meesterproef {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2598px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.meesterproef .overlap-group7 {
+  height: 2599px;
+  margin-top: -1px;
+  position: relative;
+  width: 2096px;
+}
+
+.meesterproef .rectangle-109 {
+  background-color: var(--battleship-gray);
+  height: 2599px;
+  left: 0;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 1027px;
+}
+
+.meesterproef .copyright {
+  left: 878px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2559px;
+  white-space: nowrap;
+}
+
+.meesterproef .component-10-9 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 26px;
+  min-width: 61px;
+  position: absolute;
+  top: 25px;
+}
+
+.meesterproef .overlap-group {
+  height: 57px;
+  margin-top: -0.54px;
+  position: relative;
+  width: 63px;
+}
+
+.meesterproef .meesterproefmetaverse {
+  height: 963px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 144px;
+  width: 1920px;
+}
+
+.meesterproef .rectangle-110 {
+  background-color: var(--white);
+  box-shadow: 20px 20px 20px #ffffff4d;
+  height: 625px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 455px;
+  width: 1396px;
+}
+
+.meesterproef .voor-de-meesterproef {
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 532px;
+  width: 1210px;
+}
+
+.meesterproef .datum {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 149px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.meesterproef .soort {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.meesterproef .line-22 {
+  height: 2px;
+  left: 94px;
+  top: 190px;
+  width: 222px;
+}
+
+.meesterproef .line-23 {
+  height: 2px;
+  left: 94px;
+  top: 322px;
+  width: 222px;
+}
+
+.meesterproef .juni-2023 {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 206px;
+  width: 254px;
+}
+
+.meesterproef .xd-prototype {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 44px;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 338px;
+  width: 254px;
+}
+
+.meesterproef .ander-werk {
+  height: 44px;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1158px;
+  white-space: nowrap;
+  width: 362px;
+}
+
+.meesterproef .group-1 {
+  align-items: flex-end;
+  background-color: var(--sonic-silver);
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  left: 88px;
+  position: absolute;
+  top: 902px;
+  width: 414px;
+}
+
+.meesterproef .meesterproef-nietaf {
+  height: 833px;
+  left: 846px;
+  object-fit: cover;
+  position: absolute;
+  top: 877px;
+  width: 1250px;
+}
+
+.meesterproef .component-3-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 406px;
+  left: 69px;
+  min-width: 570px;
+  position: absolute;
+  top: 1233px;
+  transition: all 0.5s ease;
+}
+
+.meesterproef .component-3-7:hover {
+  transform: scale(1.1);
+}
+
+.meesterproef .overlap-group1 {
+  height: 406px;
+  position: relative;
+  width: 570px;
+}
+
+.meesterproef .gk {
+  height: 343px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 514px;
+}
+
+.meesterproef .title {
+  height: 57px;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+  width: 385px;
+}
+
+.meesterproef .component-4-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 403px;
+  left: 15px;
+  min-width: 619px;
+  position: absolute;
+  top: 1654px;
+  transition: all 0.5s ease;
+}
+
+.meesterproef .component-4-7:hover {
+  transform: scale(1.1);
+}
+
+.meesterproef .overlap-group2 {
+  height: 403px;
+  position: relative;
+  width: 619px;
+}
+
+.meesterproef .typografie-1 {
+  height: 57px;
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 323px;
+  white-space: nowrap;
+  width: 325px;
+}
+
+.meesterproef .component-5-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 449px;
+  left: 628px;
+  min-width: 673px;
+  position: absolute;
+  top: 1642px;
+  transition: all 0.5s ease;
+}
+
+.meesterproef .component-5-7:hover {
+  transform: scale(1.1);
+}
+
+.meesterproef .overlap-group3 {
+  height: 449px;
+  position: relative;
+  width: 673px;
+}
+
+.meesterproef .beeldraal {
+  height: 449px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.meesterproef .component-6-7 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 397px;
+  left: 80px;
+  min-width: 647px;
+  position: absolute;
+  top: 2101px;
+  transition: all 0.5s ease;
+}
+
+.meesterproef .component-6-7:hover {
+  transform: scale(1.1);
+}
+
+.meesterproef .overlap-group4 {
+  height: 397px;
+  margin-bottom: 0;
+  position: relative;
+  width: 647px;
+}
+
+.meesterproef .x14581 {
+  height: 397px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.meesterproef .component-8-8 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 558px;
+  left: 613px;
+  min-width: 808px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 2019px;
+  transition: all 0.5s ease;
+}
+
+.meesterproef .component-8-8:hover {
+  transform: scale(1.1);
+}
+
+.meesterproef .overlap-group5 {
+  height: 558px;
+  position: relative;
+  width: 808px;
+}
+
+.meesterproef .web-typpo {
+  height: 558px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 451px;
+}
+
+.meesterproef .component-7-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 401px;
+  left: 1301px;
+  min-width: 554px;
+  position: absolute;
+  top: 1656px;
+  transition: all 0.5s ease;
+}
+
+.meesterproef .component-7-7:hover {
+  transform: scale(1.1);
+}
+
+.meesterproef .overlap-group6 {
+  height: 401px;
+  position: relative;
+  width: 554px;
+}
+
+.meesterproef .ii {
+  height: 337px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 506px;
+}

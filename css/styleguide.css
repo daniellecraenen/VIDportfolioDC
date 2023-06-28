@@ -1,0 +1,75 @@
+:root { 
+  --battleship-gray: #7b9870;
+  --black: #000000;
+  --finlandia: #576c4f;
+  --norway: #aad09c;
+  --sonic-silver: #777777;
+  --white: #ffffff;
+ 
+  --font-size-l: 40px;
+  --font-size-m: 35px;
+  --font-size-s: 25px;
+  --font-size-xl: 50px;
+  --font-size-xs: 20px;
+  --font-size-xxl: 60px;
+  --font-size-xxxl: 250px;
+ 
+  --font-family-geezapro-regular: "GeezaPro-Regular", Helvetica;
+  --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
+  --font-family-nexa-bold: "Nexa-Bold", Helvetica;
+}
+.nexa-bold-finlandia-60px {
+  color: var(--finlandia);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nexa-bold-norway-50px {
+  color: var(--norway);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nexa-bold-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helveticaneue-regular-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-helveticaneue-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nexa-bold-black-35px {
+  color: var(--black);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nexa-bold-finlandia-50px {
+  color: var(--finlandia);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nexa-bold-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}

@@ -1,0 +1,280 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/62b05295083bc2c240269e87.62b05296164448cae019d8e2.ZjSCLji.hcp.png");
+
+@font-face {
+  font-family: "HelveticaNeue-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/HelveticaNeue.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Nexa-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Fontfabric - Nexa Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "GeezaPro-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Geeza Pro.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.line-16 {
+  height: 3px;
+  left: 0;
+  top: 54px;
+  width: 61px;
+}
+
+.line-18 {
+  height: 56px;
+  left: 0;
+  top: 1px;
+  width: 3px;
+}
+
+.line-19 {
+  height: 56px;
+  left: 0;
+  top: 0;
+  width: 61px;
+}
+
+.line-20 {
+  height: 3px;
+  left: 1px;
+  top: 27px;
+  width: 30px;
+}
+
+.line-21 {
+  height: 56px;
+  left: 30px;
+  top: 1px;
+  width: 3px;
+}
+
+.path-117 {
+  height: 57px;
+  left: 31px;
+  width: 32px;
+}
+
+.path-118 {
+  height: 3px;
+  left: 0;
+  width: 61px;
+}
+
+.naar-prototype {
+  height: 44px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  white-space: nowrap;
+  width: 311px;
+}
+
+.rectangle-102 {
+  background-color: var(--norway);
+  border-radius: 15px;
+  box-shadow: 20px 20px 30px #aad09c4d;
+  height: 389px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 554px;
+}
+
+.rectangle-103 {
+  background-color: var(--norway);
+  border-radius: 15px;
+  box-shadow: 20px 20px 30px #aad09c4d;
+  height: 389px;
+  left: 65px;
+  position: absolute;
+  top: 14px;
+  width: 554px;
+}
+
+.typografie {
+  height: 384px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 576px;
+}
+
+.rectangle-104 {
+  background-color: var(--norway);
+  border-radius: 15px;
+  box-shadow: 20px 20px 30px #aad09c4d;
+  height: 389px;
+  left: 61px;
+  position: absolute;
+  top: 27px;
+  width: 554px;
+}
+
+.beeldtaal {
+  height: 57px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 198px;
+  transform: rotate(90deg);
+  white-space: nowrap;
+  width: 286px;
+}
+
+.rectangle-105 {
+  background-color: var(--norway);
+  border-radius: 15px;
+  box-shadow: 20px 20px 30px #aad09c4d;
+  height: 389px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 554px;
+}
+
+.interactiebeweging {
+  height: 273px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 100px;
+  opacity: 0.6;
+  position: absolute;
+  top: 88px;
+  width: 325px;
+}
+
+.rectangle-107 {
+  background-color: var(--norway);
+  border-radius: 15px;
+  box-shadow: 20px 20px 30px #aad09c4d;
+  height: 389px;
+  left: 74px;
+  position: absolute;
+  top: 90px;
+  width: 554px;
+}
+
+.webtypografie {
+  height: 157px;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 323px;
+  width: 520px;
+}
+
+.rectangle-106 {
+  background-color: var(--norway);
+  border-radius: 15px;
+  box-shadow: 20px 20px 30px #aad09c4d;
+  height: 389px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 554px;
+}
+
+.interface-interactie {
+  height: 51px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0.6;
+  position: absolute;
+  top: 322px;
+  white-space: nowrap;
+  width: 520px;
+}
+
+.line {
+  object-fit: cover;
+  position: absolute;
+}
+
+.path {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
+
+.naar-website {
+  height: 44px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-bottom: 19px;
+  margin-right: 71px;
+  white-space: nowrap;
+  width: 270px;
+}
+
+.rectangle-108 {
+  background-color: var(--norway);
+  border-radius: 15px;
+  box-shadow: 20px 20px 30px #aad09c4d;
+  height: 389px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 554px;
+}
+
+.meesterproef {
+  height: 57px;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+  width: 407px;
+}
+
+.grid-en-kleur {
+  height: 57px;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+  width: 385px;
+}

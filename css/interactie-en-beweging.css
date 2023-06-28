@@ -1,0 +1,376 @@
+/* screen - interactie-en-beweging */
+
+.interactie-en-beweging {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2661px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.interactie-en-beweging .overlap-group7 {
+  height: 2663px;
+  margin-top: -1px;
+  position: relative;
+  width: 2150px;
+}
+
+.interactie-en-beweging .rectangle-109 {
+  background-color: var(--battleship-gray);
+  height: 2663px;
+  left: 0;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 1027px;
+}
+
+.interactie-en-beweging .copyright {
+  left: 878px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2623px;
+  white-space: nowrap;
+}
+
+.interactie-en-beweging .component-10-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 26px;
+  min-width: 61px;
+  position: absolute;
+  top: 25px;
+}
+
+.interactie-en-beweging .overlap-group {
+  height: 57px;
+  margin-top: -0.54px;
+  position: relative;
+  width: 63px;
+}
+
+.interactie-en-beweging .interactie-en-beweging-pingu {
+  height: 961px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 1920px;
+}
+
+.interactie-en-beweging .rectangle-110 {
+  background-color: var(--white);
+  box-shadow: 20px 20px 20px #ffffff4d;
+  height: 625px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 455px;
+  width: 1396px;
+}
+
+.interactie-en-beweging .bij-het-vak-interfac {
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 547px;
+  width: 1210px;
+}
+
+.interactie-en-beweging .datum {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 149px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.interactie-en-beweging .soort {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.interactie-en-beweging .line-22 {
+  height: 2px;
+  left: 94px;
+  top: 190px;
+  width: 222px;
+}
+
+.interactie-en-beweging .line-23 {
+  height: 2px;
+  left: 94px;
+  top: 322px;
+  width: 222px;
+}
+
+.interactie-en-beweging .name {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 206px;
+  width: 254px;
+}
+
+.interactie-en-beweging .xd-prototype {
+  height: 44px;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 338px;
+  width: 235px;
+}
+
+.interactie-en-beweging .ander-werk {
+  height: 44px;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1186px;
+  white-space: nowrap;
+  width: 362px;
+}
+
+.interactie-en-beweging .group-2 {
+  align-items: flex-end;
+  background-color: var(--norway);
+  box-shadow: 0px 3px 6px #00000029;
+  cursor: pointer;
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  left: 94px;
+  position: absolute;
+  top: 917px;
+  width: 414px;
+}
+
+.interactie-en-beweging .component-3-4 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 406px;
+  left: 78px;
+  min-width: 570px;
+  position: absolute;
+  top: 1279px;
+  transition: all 0.5s ease;
+}
+
+.interactie-en-beweging .component-3-4:hover {
+  transform: scale(1.1);
+}
+
+.interactie-en-beweging .overlap-group1 {
+  height: 406px;
+  position: relative;
+  width: 570px;
+}
+
+.interactie-en-beweging .gk {
+  height: 343px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 514px;
+}
+
+.interactie-en-beweging .title {
+  height: 57px;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+  width: 385px;
+}
+
+.interactie-en-beweging .component-4-4 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 403px;
+  left: 28px;
+  min-width: 619px;
+  position: absolute;
+  top: 1705px;
+  transition: all 0.5s ease;
+}
+
+.interactie-en-beweging .component-4-4:hover {
+  transform: scale(1.1);
+}
+
+.interactie-en-beweging .overlap-group2 {
+  height: 403px;
+  position: relative;
+  width: 619px;
+}
+
+.interactie-en-beweging .typografie-1 {
+  height: 57px;
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 323px;
+  white-space: nowrap;
+  width: 325px;
+}
+
+.interactie-en-beweging .component-7-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 401px;
+  left: 1293px;
+  min-width: 554px;
+  position: absolute;
+  top: 1705px;
+  transition: all 0.5s ease;
+}
+
+.interactie-en-beweging .component-7-5:hover {
+  transform: scale(1.1);
+}
+
+.interactie-en-beweging .overlap-group3 {
+  height: 401px;
+  position: relative;
+  width: 554px;
+}
+
+.interactie-en-beweging .ii {
+  height: 337px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 506px;
+}
+
+.interactie-en-beweging .component-9-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 409px;
+  left: 694px;
+  min-width: 554px;
+  position: absolute;
+  top: 2161px;
+  transition: all 0.5s ease;
+}
+
+.interactie-en-beweging .component-9-5:hover {
+  transform: scale(1.1);
+}
+
+.interactie-en-beweging .overlap-group4 {
+  height: 409px;
+  position: relative;
+  width: 554px;
+}
+
+.interactie-en-beweging .meesterproef-nietaf {
+  height: 355px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 532px;
+}
+
+.interactie-en-beweging .component-8-6 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 558px;
+  left: 22px;
+  min-width: 808px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 2074px;
+  transition: all 0.5s ease;
+}
+
+.interactie-en-beweging .component-8-6:hover {
+  transform: scale(1.1);
+}
+
+.interactie-en-beweging .overlap-group5 {
+  height: 558px;
+  position: relative;
+  width: 808px;
+}
+
+.interactie-en-beweging .web-typpo {
+  height: 558px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 451px;
+}
+
+.interactie-en-beweging .component-5-4 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 449px;
+  left: 635px;
+  min-width: 673px;
+  position: absolute;
+  top: 1692px;
+  transition: all 0.5s ease;
+}
+
+.interactie-en-beweging .component-5-4:hover {
+  transform: scale(1.1);
+}
+
+.interactie-en-beweging .overlap-group6 {
+  height: 449px;
+  position: relative;
+  width: 673px;
+}
+
+.interactie-en-beweging .beeldraal {
+  height: 449px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.interactie-en-beweging .x14581 {
+  height: 1260px;
+  left: 514px;
+  object-fit: cover;
+  position: absolute;
+  top: 645px;
+  width: 1636px;
+}

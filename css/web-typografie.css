@@ -1,0 +1,376 @@
+/* screen - web-typografie */
+
+.web-typografie {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2739px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.web-typografie .overlap-group7 {
+  height: 2742px;
+  margin-top: -1px;
+  position: relative;
+  width: 2218px;
+}
+
+.web-typografie .rectangle-109 {
+  background-color: var(--battleship-gray);
+  height: 2742px;
+  left: 0;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 1027px;
+}
+
+.web-typografie .copyright {
+  left: 878px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2702px;
+  white-space: nowrap;
+}
+
+.web-typografie .component-10-8 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 26px;
+  min-width: 61px;
+  position: absolute;
+  top: 25px;
+}
+
+.web-typografie .overlap-group {
+  height: 57px;
+  margin-top: -0.54px;
+  position: relative;
+  width: 63px;
+}
+
+.web-typografie .web-typografiedoof {
+  height: 958px;
+  left: 0;
+  top: 149px;
+  width: 1920px;
+}
+
+.web-typografie .rectangle-110 {
+  background-color: var(--white);
+  box-shadow: 20px 20px 20px #ffffff4d;
+  height: 625px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 455px;
+  width: 1396px;
+}
+
+.web-typografie .als-je-doof-bent-of {
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 524px;
+  width: 1210px;
+}
+
+.web-typografie .datum {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 149px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.web-typografie .soort {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.web-typografie .line-22 {
+  height: 2px;
+  left: 94px;
+  top: 190px;
+  width: 222px;
+}
+
+.web-typografie .line-23 {
+  height: 2px;
+  left: 94px;
+  top: 322px;
+  width: 222px;
+}
+
+.web-typografie .mei-2023 {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 206px;
+  width: 254px;
+}
+
+.web-typografie .website-html-css {
+  height: 44px;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 338px;
+  width: 362px;
+}
+
+.web-typografie .ander-werk {
+  height: 44px;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1296px;
+  white-space: nowrap;
+  width: 362px;
+}
+
+.web-typografie .group-1 {
+  align-items: flex-end;
+  background-color: var(--norway);
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  left: 95px;
+  position: absolute;
+  top: 937px;
+  width: 414px;
+}
+
+.web-typografie .web-typpo {
+  height: 1459px;
+  left: 427px;
+  top: 628px;
+  width: 1791px;
+}
+
+.web-typografie .component-3-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 406px;
+  left: 74px;
+  min-width: 570px;
+  position: absolute;
+  top: 1371px;
+  transition: all 0.5s ease;
+}
+
+.web-typografie .component-3-6:hover {
+  transform: scale(1.1);
+}
+
+.web-typografie .overlap-group1 {
+  height: 406px;
+  position: relative;
+  width: 570px;
+}
+
+.web-typografie .gk {
+  height: 343px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 514px;
+}
+
+.web-typografie .title {
+  height: 57px;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+  width: 385px;
+}
+
+.web-typografie .component-4-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 403px;
+  left: 25px;
+  min-width: 619px;
+  position: absolute;
+  top: 1797px;
+  transition: all 0.5s ease;
+}
+
+.web-typografie .component-4-6:hover {
+  transform: scale(1.1);
+}
+
+.web-typografie .overlap-group2 {
+  height: 403px;
+  position: relative;
+  width: 619px;
+}
+
+.web-typografie .typografie-1 {
+  height: 57px;
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 323px;
+  white-space: nowrap;
+  width: 325px;
+}
+
+.web-typografie .component-7-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 401px;
+  left: 1290px;
+  min-width: 554px;
+  position: absolute;
+  top: 1797px;
+  transition: all 0.5s ease;
+}
+
+.web-typografie .component-7-6:hover {
+  transform: scale(1.1);
+}
+
+.web-typografie .overlap-group3 {
+  height: 401px;
+  position: relative;
+  width: 554px;
+}
+
+.web-typografie .ii {
+  height: 337px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 506px;
+}
+
+.web-typografie .component-9-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 409px;
+  left: 691px;
+  min-width: 554px;
+  position: absolute;
+  top: 2254px;
+  transition: all 0.5s ease;
+}
+
+.web-typografie .component-9-7:hover {
+  transform: scale(1.1);
+}
+
+.web-typografie .overlap-group4 {
+  height: 409px;
+  position: relative;
+  width: 554px;
+}
+
+.web-typografie .meesterproef-nietaf {
+  height: 355px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 532px;
+}
+
+.web-typografie .component-5-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 449px;
+  left: 632px;
+  min-width: 673px;
+  position: absolute;
+  top: 1784px;
+  transition: all 0.5s ease;
+}
+
+.web-typografie .component-5-6:hover {
+  transform: scale(1.1);
+}
+
+.web-typografie .overlap-group5 {
+  height: 449px;
+  position: relative;
+  width: 673px;
+}
+
+.web-typografie .beeldraal {
+  height: 449px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.web-typografie .component-6-6 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 397px;
+  left: 89px;
+  min-width: 647px;
+  position: absolute;
+  top: 2246px;
+  transition: all 0.5s ease;
+}
+
+.web-typografie .component-6-6:hover {
+  transform: scale(1.1);
+}
+
+.web-typografie .overlap-group6 {
+  height: 397px;
+  margin-bottom: 0;
+  position: relative;
+  width: 647px;
+}
+
+.web-typografie .x14581 {
+  height: 397px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.web-typografie .web {
+  object-fit: cover;
+  position: absolute;
+}

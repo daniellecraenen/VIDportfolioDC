@@ -1,0 +1,396 @@
+/* screen - interface-en-interactie */
+
+.interface-en-interactie {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2652px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.interface-en-interactie .overlap-group7 {
+  height: 2657px;
+  margin-left: -163px;
+  margin-top: -1px;
+  position: relative;
+  width: 2247px;
+}
+
+.interface-en-interactie .rectangle-109 {
+  background-color: var(--battleship-gray);
+  height: 2657px;
+  left: 163px;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 1027px;
+}
+
+.interface-en-interactie .copyright {
+  left: 1040px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2617px;
+  white-space: nowrap;
+}
+
+.interface-en-interactie .component-10-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 189px;
+  min-width: 61px;
+  position: absolute;
+  top: 25px;
+}
+
+.interface-en-interactie .overlap-group {
+  height: 57px;
+  margin-top: -0.54px;
+  position: relative;
+  width: 63px;
+}
+
+.interface-en-interactie .interface-en-interactie-1 {
+  height: 961px;
+  left: 163px;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 1920px;
+}
+
+.interface-en-interactie .rectangle-110 {
+  background-color: var(--white);
+  box-shadow: 20px 20px 20px #ffffff4d;
+  height: 625px;
+  left: 163px;
+  opacity: 0.8;
+  position: absolute;
+  top: 455px;
+  width: 1396px;
+}
+
+.interface-en-interactie .de-opdracht-was-om-e {
+  left: 257px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 522px;
+  width: 1210px;
+}
+
+.interface-en-interactie .datum {
+  height: 44px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 149px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.interface-en-interactie .soort {
+  height: 44px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.interface-en-interactie .line-22 {
+  height: 2px;
+  left: 258px;
+  top: 190px;
+  width: 222px;
+}
+
+.interface-en-interactie .line-23 {
+  height: 2px;
+  left: 258px;
+  top: 322px;
+  width: 222px;
+}
+
+.interface-en-interactie .mei-2023 {
+  height: 44px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 206px;
+  width: 254px;
+}
+
+.interface-en-interactie .website-html-css-javascript {
+  height: 44px;
+  left: 258px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 338px;
+  width: 567px;
+}
+
+.interface-en-interactie .ander-werk {
+  height: 44px;
+  left: 258px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1647px;
+  white-space: nowrap;
+  width: 362px;
+}
+
+.interface-en-interactie .group-1 {
+  align-items: flex-end;
+  background-color: var(--norway);
+  box-shadow: 0px 3px 6px #00000029;
+  cursor: pointer;
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  left: 251px;
+  position: absolute;
+  top: 892px;
+  width: 414px;
+}
+
+.interface-en-interactie .ii2 {
+  height: 638px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 945px;
+  width: 957px;
+}
+
+.interface-en-interactie .ii3 {
+  height: 627px;
+  left: 1306px;
+  object-fit: cover;
+  position: absolute;
+  top: 951px;
+  width: 941px;
+}
+
+.interface-en-interactie .ii {
+  height: 644px;
+  left: 639px;
+  object-fit: cover;
+  position: absolute;
+  top: 934px;
+  width: 967px;
+}
+
+.interface-en-interactie .component-3-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 406px;
+  left: 238px;
+  min-width: 570px;
+  position: absolute;
+  top: 1716px;
+  transition: all 0.5s ease;
+}
+
+.interface-en-interactie .component-3-5:hover {
+  transform: scale(1.1);
+}
+
+.interface-en-interactie .overlap-group1 {
+  height: 406px;
+  position: relative;
+  width: 570px;
+}
+
+.interface-en-interactie .gk {
+  height: 343px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 514px;
+}
+
+.interface-en-interactie .title {
+  height: 57px;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+  width: 385px;
+}
+
+.interface-en-interactie .component-4-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 403px;
+  left: 793px;
+  min-width: 619px;
+  position: absolute;
+  top: 1702px;
+  transition: all 0.5s ease;
+}
+
+.interface-en-interactie .component-4-5:hover {
+  transform: scale(1.1);
+}
+
+.interface-en-interactie .overlap-group2 {
+  height: 403px;
+  position: relative;
+  width: 619px;
+}
+
+.interface-en-interactie .typografie-1 {
+  height: 57px;
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 323px;
+  white-space: nowrap;
+  width: 325px;
+}
+
+.interface-en-interactie .component-5-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 449px;
+  left: 1401px;
+  min-width: 673px;
+  position: absolute;
+  top: 1689px;
+  transition: all 0.5s ease;
+}
+
+.interface-en-interactie .component-5-5:hover {
+  transform: scale(1.1);
+}
+
+.interface-en-interactie .overlap-group3 {
+  height: 449px;
+  position: relative;
+  width: 673px;
+}
+
+.interface-en-interactie .beeldraal {
+  height: 449px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.interface-en-interactie .component-6-5 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 397px;
+  left: 254px;
+  min-width: 647px;
+  position: absolute;
+  top: 2157px;
+  transition: all 0.5s ease;
+}
+
+.interface-en-interactie .component-6-5:hover {
+  transform: scale(1.1);
+}
+
+.interface-en-interactie .overlap-group4 {
+  height: 397px;
+  margin-bottom: 0;
+  position: relative;
+  width: 647px;
+}
+
+.interface-en-interactie .x14581 {
+  height: 397px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.interface-en-interactie .component-8-7 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 558px;
+  left: 787px;
+  min-width: 808px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 2075px;
+  transition: all 0.5s ease;
+}
+
+.interface-en-interactie .component-8-7:hover {
+  transform: scale(1.1);
+}
+
+.interface-en-interactie .overlap-group5 {
+  height: 558px;
+  position: relative;
+  width: 808px;
+}
+
+.interface-en-interactie .web-typpo {
+  height: 558px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 451px;
+}
+
+.interface-en-interactie .component-9-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 409px;
+  left: 1460px;
+  min-width: 554px;
+  position: absolute;
+  top: 2165px;
+  transition: all 0.5s ease;
+}
+
+.interface-en-interactie .component-9-6:hover {
+  transform: scale(1.1);
+}
+
+.interface-en-interactie .overlap-group6 {
+  height: 409px;
+  position: relative;
+  width: 554px;
+}
+
+.interface-en-interactie .meesterproef-nietaf {
+  height: 355px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 532px;
+}

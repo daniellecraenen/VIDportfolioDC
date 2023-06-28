@@ -1,0 +1,369 @@
+/* screen - typografie */
+
+.typografie {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2741px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.typografie .overlap-group7 {
+  height: 2743px;
+  margin-left: -152px;
+  margin-top: -1px;
+  position: relative;
+  width: 2270px;
+}
+
+.typografie .rectangle-109 {
+  background-color: var(--battleship-gray);
+  height: 2743px;
+  left: 152px;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 1027px;
+}
+
+.typografie .copyright {
+  left: 1030px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2703px;
+  white-space: nowrap;
+}
+
+.typografie .component-10-4 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 178px;
+  min-width: 61px;
+  position: absolute;
+  top: 25px;
+}
+
+.typografie .overlap-group {
+  height: 57px;
+  margin-top: -0.54px;
+  position: relative;
+  width: 63px;
+}
+
+.typografie .typografiemelts-script-roman {
+  height: 963px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 144px;
+  width: 1920px;
+}
+
+.typografie .rectangle-110 {
+  background-color: var(--white);
+  box-shadow: 20px 20px 20px #ffffff4d;
+  height: 625px;
+  left: 152px;
+  opacity: 0.8;
+  position: absolute;
+  top: 455px;
+  width: 1396px;
+}
+
+.typografie .ik-moest-me-verdiepe {
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 567px;
+  width: 1210px;
+}
+
+.typografie .datum {
+  height: 44px;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 149px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.typografie .soort {
+  height: 44px;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.typografie .line-22 {
+  height: 2px;
+  left: 246px;
+  top: 190px;
+  width: 222px;
+}
+
+.typografie .line-23 {
+  height: 2px;
+  left: 246px;
+  top: 322px;
+  width: 222px;
+}
+
+.typografie .februari-2023 {
+  height: 44px;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 206px;
+  width: 254px;
+}
+
+.typografie .poster-en-indesign-boekje {
+  height: 44px;
+  left: 247px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 338px;
+  width: 443px;
+}
+
+.typografie .ander-werk {
+  height: 44px;
+  left: 240px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1695px;
+  white-space: nowrap;
+  width: 362px;
+}
+
+.typografie .typografie-1 {
+  height: 902px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 835px;
+  width: 1352px;
+}
+
+.typografie .typografie2 {
+  height: 912px;
+  left: 904px;
+  object-fit: cover;
+  position: absolute;
+  top: 830px;
+  width: 1366px;
+}
+
+.typografie .component-6-3 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 397px;
+  left: 1437px;
+  min-width: 647px;
+  position: absolute;
+  top: 1781px;
+  transition: all 0.5s ease;
+}
+
+.typografie .component-6-3:hover {
+  transform: scale(1.1);
+}
+
+.typografie .overlap-group1 {
+  height: 397px;
+  margin-bottom: 0;
+  position: relative;
+  width: 647px;
+}
+
+.typografie .title {
+  height: 273px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 100px;
+  opacity: 0.6;
+  position: absolute;
+  top: 88px;
+  width: 325px;
+}
+
+.typografie .x14581 {
+  height: 397px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.typografie .component-7-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 401px;
+  left: 240px;
+  min-width: 554px;
+  position: absolute;
+  top: 2205px;
+  transition: all 0.5s ease;
+}
+
+.typografie .component-7-3:hover {
+  transform: scale(1.1);
+}
+
+.typografie .overlap-group2 {
+  height: 401px;
+  position: relative;
+  width: 554px;
+}
+
+.typografie .ii {
+  height: 337px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 506px;
+}
+
+.typografie .component-9-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 409px;
+  left: 1437px;
+  min-width: 554px;
+  position: absolute;
+  top: 2214px;
+  transition: all 0.5s ease;
+}
+
+.typografie .component-9-3:hover {
+  transform: scale(1.1);
+}
+
+.typografie .overlap-group3 {
+  height: 409px;
+  position: relative;
+  width: 554px;
+}
+
+.typografie .meesterproef-nietaf {
+  height: 355px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 532px;
+}
+
+.typografie .component-5-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 449px;
+  left: 776px;
+  min-width: 673px;
+  position: absolute;
+  top: 1759px;
+  transition: all 0.5s ease;
+}
+
+.typografie .component-5-3:hover {
+  transform: scale(1.1);
+}
+
+.typografie .overlap-group4 {
+  height: 449px;
+  position: relative;
+  width: 673px;
+}
+
+.typografie .beeldraal {
+  height: 449px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.typografie .component-8-4 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 558px;
+  left: 764px;
+  min-width: 808px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 2126px;
+  transition: all 0.5s ease;
+}
+
+.typografie .component-8-4:hover {
+  transform: scale(1.1);
+}
+
+.typografie .overlap-group5 {
+  height: 558px;
+  position: relative;
+  width: 808px;
+}
+
+.typografie .web-typpo {
+  height: 558px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 451px;
+}
+
+.typografie .component-3-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 406px;
+  left: 224px;
+  min-width: 570px;
+  position: absolute;
+  top: 1781px;
+  transition: all 0.5s ease;
+}
+
+.typografie .component-3-2:hover {
+  transform: scale(1.1);
+}
+
+.typografie .overlap-group6 {
+  height: 406px;
+  position: relative;
+  width: 570px;
+}
+
+.typografie .gk {
+  height: 343px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 514px;
+}

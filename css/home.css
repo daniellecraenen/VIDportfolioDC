@@ -1,0 +1,368 @@
+/* screen - home */
+
+.home {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2634px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.home .overlap-group9 {
+  height: 2635px;
+  position: relative;
+  width: 2021px;
+}
+
+.home .component-10-3 {
+  align-items: flex-start;
+  height: 56px;
+  justify-content: flex-end;
+  left: 26px;
+  min-width: 61px;
+  top: 24px;
+}
+
+.home .overlap-group {
+  height: 57px;
+  margin-top: -0.54px;
+  position: relative;
+  width: 63px;
+}
+
+.home .overlap-group8 {
+  height: 2635px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2021px;
+}
+
+.home .rectangle-101 {
+  background-color: var(--battleship-gray);
+  height: 2635px;
+  left: 893px;
+  position: absolute;
+  top: 0;
+  width: 1027px;
+}
+
+.home .title {
+  color: var(--norway);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 960px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 250px;
+  opacity: 0.6;
+  position: absolute;
+  top: 111px;
+  width: 1922px;
+}
+
+.home .component-10-1 {
+  height: 909px;
+  left: 0;
+  top: 122px;
+  width: 1920px;
+}
+
+.home .mask-group-2 {
+  flex: 1;
+  margin-left: 49px;
+  margin-right: 1840px;
+  margin-top: 866px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.home .rectangle-1 {
+  background-color: var(--white);
+  box-shadow: 20px 20px 20px #ffffff4d;
+  height: 625px;
+  left: 524px;
+  opacity: 0.8;
+  position: absolute;
+  top: 455px;
+  width: 1396px;
+}
+
+.home .hi-welkom-op-mijn-p {
+  color: var(--black);
+  font-family: var(--font-family-nexa-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 618px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 628px;
+  width: 1210px;
+}
+
+.home .scroll-down {
+  color: var(--black);
+  font-family: var(--font-family-geezapro-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 1006px;
+  width: 138px;
+}
+
+.home .minor-20222023 {
+  color: var(--black);
+  font-family: var(--font-family-geezapro-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 1703px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 1031px;
+  width: 199px;
+}
+
+.home .copyright {
+  left: 878px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2594px;
+  white-space: nowrap;
+}
+
+.home .component-3-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 406px;
+  left: 63px;
+  min-width: 570px;
+  position: absolute;
+  top: 1233px;
+  transition: all 0.5s ease;
+}
+
+.home .component-3-1:hover {
+  transform: scale(1.1);
+}
+
+.home .overlap-group1 {
+  height: 406px;
+  position: relative;
+  width: 570px;
+}
+
+.home .gk {
+  height: 343px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 514px;
+}
+
+.home .component-4-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 403px;
+  left: 618px;
+  min-width: 619px;
+  position: absolute;
+  top: 1219px;
+  transition: all 0.5s ease;
+}
+
+.home .component-4-1:hover {
+  transform: scale(1.1);
+}
+
+.home .overlap-group2 {
+  height: 403px;
+  position: relative;
+  width: 619px;
+}
+
+.home .typografie-1 {
+  height: 57px;
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 323px;
+  white-space: nowrap;
+  width: 325px;
+}
+
+.home .component-5-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 449px;
+  left: 1226px;
+  min-width: 673px;
+  position: absolute;
+  top: 1206px;
+  transition: all 0.5s ease;
+}
+
+.home .component-5-1:hover {
+  transform: scale(1.1);
+}
+
+.home .overlap-group3 {
+  height: 449px;
+  position: relative;
+  width: 673px;
+}
+
+.home .beeldraal {
+  height: 449px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.home .component-6-1 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 397px;
+  left: 79px;
+  min-width: 647px;
+  position: absolute;
+  top: 1674px;
+  transition: all 0.5s ease;
+}
+
+.home .component-6-1:hover {
+  transform: scale(1.1);
+}
+
+.home .overlap-group4 {
+  height: 397px;
+  margin-bottom: 0;
+  position: relative;
+  width: 647px;
+}
+
+.home .x14581 {
+  height: 397px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.home .component-7-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 401px;
+  left: 683px;
+  min-width: 554px;
+  position: absolute;
+  top: 1670px;
+  transition: all 0.5s ease;
+}
+
+.home .component-7-1:hover {
+  transform: scale(1.1);
+}
+
+.home .overlap-group5 {
+  height: 401px;
+  position: relative;
+  width: 554px;
+}
+
+.home .ii {
+  height: 337px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 506px;
+}
+
+.home .component-8-1 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 558px;
+  left: 1213px;
+  min-width: 808px;
+  position: absolute;
+  top: 1592px;
+  transition: all 0.5s ease;
+}
+
+.home .component-8-1:hover {
+  transform: scale(1.1);
+}
+
+.home .overlap-group6 {
+  height: 558px;
+  margin-bottom: 0;
+  position: relative;
+  width: 808px;
+}
+
+.home .web-typpo {
+  height: 558px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 451px;
+}
+
+.home .component-9-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 409px;
+  left: 79px;
+  min-width: 554px;
+  position: absolute;
+  top: 2121px;
+  transition: all 0.5s ease;
+}
+
+.home .component-9-1:hover {
+  transform: scale(1.1);
+}
+
+.home .overlap-group7 {
+  height: 409px;
+  position: relative;
+  width: 554px;
+}
+
+.home .meesterproef-nietaf {
+  height: 355px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 532px;
+}
+
+.home .component-10 {
+  display: flex;
+  position: absolute;
+}

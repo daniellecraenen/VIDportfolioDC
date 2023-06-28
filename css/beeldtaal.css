@@ -1,0 +1,363 @@
+/* screen - beeldtaal */
+
+.beeldtaal {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2619px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.beeldtaal .overlap-group7 {
+  height: 2624px;
+  margin-top: -1px;
+  position: relative;
+  width: 2114px;
+}
+
+.beeldtaal .rectangle-109 {
+  background-color: var(--battleship-gray);
+  height: 2624px;
+  left: 0;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 1027px;
+}
+
+.beeldtaal .copyright {
+  left: 878px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2584px;
+  white-space: nowrap;
+}
+
+.beeldtaal .component-10-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 26px;
+  min-width: 61px;
+  position: absolute;
+  top: 25px;
+}
+
+.beeldtaal .overlap-group {
+  height: 57px;
+  margin-top: -0.54px;
+  position: relative;
+  width: 63px;
+}
+
+.beeldtaal .beeldtaalstop-pesten-campagne {
+  height: 958px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 1920px;
+}
+
+.beeldtaal .rectangle-110 {
+  background-color: var(--white);
+  box-shadow: 20px 20px 20px #ffffff4d;
+  height: 625px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 455px;
+  width: 1396px;
+}
+
+.beeldtaal .ik-heb-een-ethisch-v {
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 535px;
+  width: 1210px;
+}
+
+.beeldtaal .datum {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 149px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.beeldtaal .soort {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.beeldtaal .line-22 {
+  height: 2px;
+  left: 94px;
+  top: 190px;
+  width: 222px;
+}
+
+.beeldtaal .line-23 {
+  height: 2px;
+  left: 94px;
+  top: 322px;
+  width: 222px;
+}
+
+.beeldtaal .maart-2023 {
+  height: 44px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 206px;
+  width: 254px;
+}
+
+.beeldtaal .poster {
+  height: 44px;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 338px;
+  width: 443px;
+}
+
+.beeldtaal .ander-werk {
+  height: 44px;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1173px;
+  white-space: nowrap;
+  width: 362px;
+}
+
+.beeldtaal .beeldraal {
+  height: 884px;
+  left: 789px;
+  object-fit: cover;
+  position: absolute;
+  top: 841px;
+  width: 1325px;
+}
+
+.beeldtaal .component-3-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 406px;
+  left: 66px;
+  min-width: 570px;
+  position: absolute;
+  top: 1251px;
+  transition: all 0.5s ease;
+}
+
+.beeldtaal .component-3-3:hover {
+  transform: scale(1.1);
+}
+
+.beeldtaal .overlap-group1 {
+  height: 406px;
+  position: relative;
+  width: 570px;
+}
+
+.beeldtaal .gk {
+  height: 343px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 514px;
+}
+
+.beeldtaal .title {
+  height: 57px;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+  width: 385px;
+}
+
+.beeldtaal .component-4-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 403px;
+  left: 17px;
+  min-width: 619px;
+  position: absolute;
+  top: 1678px;
+  transition: all 0.5s ease;
+}
+
+.beeldtaal .component-4-3:hover {
+  transform: scale(1.1);
+}
+
+.beeldtaal .overlap-group2 {
+  height: 403px;
+  position: relative;
+  width: 619px;
+}
+
+.beeldtaal .typografie-1 {
+  height: 57px;
+  left: 263px;
+  letter-spacing: 0;
+  line-height: 60px;
+  opacity: 0.6;
+  position: absolute;
+  top: 323px;
+  white-space: nowrap;
+  width: 325px;
+}
+
+.beeldtaal .component-6-4 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 397px;
+  left: 682px;
+  min-width: 647px;
+  position: absolute;
+  top: 1684px;
+  transition: all 0.5s ease;
+}
+
+.beeldtaal .component-6-4:hover {
+  transform: scale(1.1);
+}
+
+.beeldtaal .overlap-group3 {
+  height: 397px;
+  margin-bottom: 0;
+  position: relative;
+  width: 647px;
+}
+
+.beeldtaal .x14581 {
+  height: 397px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.beeldtaal .component-7-4 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 401px;
+  left: 1282px;
+  min-width: 554px;
+  position: absolute;
+  top: 1678px;
+  transition: all 0.5s ease;
+}
+
+.beeldtaal .component-7-4:hover {
+  transform: scale(1.1);
+}
+
+.beeldtaal .overlap-group4 {
+  height: 401px;
+  position: relative;
+  width: 554px;
+}
+
+.beeldtaal .ii {
+  height: 337px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 506px;
+}
+
+.beeldtaal .component-9-4 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 409px;
+  left: 683px;
+  min-width: 554px;
+  position: absolute;
+  top: 2134px;
+  transition: all 0.5s ease;
+}
+
+.beeldtaal .component-9-4:hover {
+  transform: scale(1.1);
+}
+
+.beeldtaal .overlap-group5 {
+  height: 409px;
+  position: relative;
+  width: 554px;
+}
+
+.beeldtaal .meesterproef-nietaf {
+  height: 355px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 532px;
+}
+
+.beeldtaal .component-8-5 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 558px;
+  left: 10px;
+  min-width: 808px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 2047px;
+  transition: all 0.5s ease;
+}
+
+.beeldtaal .component-8-5:hover {
+  transform: scale(1.1);
+}
+
+.beeldtaal .overlap-group6 {
+  height: 558px;
+  position: relative;
+  width: 808px;
+}
+
+.beeldtaal .web-typpo {
+  height: 558px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 451px;
+}
